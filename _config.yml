@@ -10,7 +10,7 @@ title: Michael Connor
 email: michaelconnor00 at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
   A blog for sharing ideas and projects that tickle my interests.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/mc_blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: mconnor12
 github_username:  michaelconnor00
